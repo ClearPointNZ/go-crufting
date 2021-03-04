@@ -1,9 +1,9 @@
 Go Crufting
 ===========
 
-![Gopher](https://golang.org/doc/gopher/doc.png)
-
 Examples and demos of Golang patterns.
+
+![Gopher](https://golang.org/doc/gopher/doc.png)
 
 
 Contents
