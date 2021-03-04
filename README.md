@@ -1,11 +1,12 @@
 Go Crufting
 ===========
 
-Example GoLang code and patterns
+![Gopher](https://golang.org/doc/gopher/doc.png)
+
+Examples and demos of Golang patterns.
 
 
-WTF
----
+Contents
+--------
 
-- [/internal/basic](/internal/basic): Example unit tests using the basic "testing" package
-- [/internal/cruft](/internal/cruft): Example unit tests using "testify/assert"
+- [Unit Testing Tooling](/UnitTestingTooling): A couple of demos on various unit testing patterns and tooling available in Go

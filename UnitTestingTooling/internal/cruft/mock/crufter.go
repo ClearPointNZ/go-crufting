@@ -4,7 +4,7 @@ package mock
 import (
 	"sync"
 
-	"github.com/ClearPointNZ/go-crufting/internal/cruft"
+	"github.com/ClearPointNZ/go-crufting/UnitTestingTooling/internal/cruft"
 )
 
 type FakeCrufter struct {
